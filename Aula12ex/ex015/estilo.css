@@ -1,0 +1,21 @@
+body{
+    background: rgb(109, 109, 238);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;/*cor da fonte*/
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;/* deixar a borda redonda das coisas*/
+    padding: 15px;/*espaceamento de borda*/
+    width: 500px;
+    margin: auto;/*centralizar caixas*/
+    box-shadow: 5px 5px 10px black;/*deslocamento vertical, deslocamento lateral, espalhamento e cor: serve para colocar sombra em caixas*/
+}
+footer{
+    color: white;
+    text-align: center;/*centralizar texto*/
+    font-style: italic;
+}
